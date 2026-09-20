@@ -14,6 +14,8 @@
 
 # Exercice 4:
 
+<img width="865" height="226" alt="image" src="https://github.com/user-attachments/assets/aa0badc4-eb98-4257-a213-993c0051ddcd" />
+
 # Exercice 5:
 
 # Exercice 6:
